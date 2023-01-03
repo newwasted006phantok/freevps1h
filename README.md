@@ -1,6 +1,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fadtitas%2Fngrok-rdp%2F&labelColor=%2314213d&countColor=%23e5e5e5&style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/adtitas/ngrok-rdp?style=social)
 
-## ðŸ“® Description
+## 📮 Description
 
 **What is RDP?**<br>
 
@@ -11,7 +11,7 @@
 - This RDP stays active for up to 2 hour (previously 5-6 hours).<br>
 - Currently, I'm working on it to make again 5-6 hours.
 
-## ðŸ“® Setup Tutorial
+## 📮 Setup Tutorial
 
 #### First Step
 
@@ -37,11 +37,11 @@
 #### Third Step
 
 1. Search **Remote Desktop Connection** from Windows Start Menu and open
-2. Put IP without `tcp://` ðŸ”´
+2. Put IP without `tcp://` 🔴
 3. Later on, put the **username & password** for credential/auth
    <details> <summary>Screenshot</summary> <img src="https://i.imgur.com/WQr9N1A.png" alt="ss" width="80%"/> </details>
 
-## ðŸ“® Screenshots
+## 📮 Screenshots
 
 <img src="https://i.ibb.co/s3Ns3bF/Screenshot-2.png" alt="ss" width="100%"/>
 
@@ -51,11 +51,11 @@
       <img src="https://www.speedtest.net/result/14108384759.png" alt="ss" width="100%"/>
 </details>
 
-## ðŸ“® Terms & conditions
+## 📮 Terms & conditions
 
 1. Don't share this script without credit!
 2. Don't misuse this script!
 
-## ðŸ“® License
+## 📮 License
 
 The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT License](LICENSE.md).
